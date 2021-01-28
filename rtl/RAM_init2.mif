@@ -1,0 +1,90 @@
+-- Copyright (C) 2019  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and any partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details, at
+-- https://fpgasoftware.intel.com/eula.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=32;
+DEPTH=128;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=DEC;
+
+CONTENT BEGIN
+	0    :   12;
+	1    :   -28;
+	2    :   99;
+	3    :   -60;
+	4    :   29;
+	5    :   -117;
+	6    :   38;
+	7    :   -64;
+	8    :   114;
+	9    :   24;
+	10   :   119;
+	11   :   94;
+	12   :   124;
+	13   :   14;
+	14   :   -98;
+	15   :   2;
+	16   :   13;
+	17   :   -14;
+	18   :   43;
+	19   :   -23;
+	20   :   -50;
+	21   :   32;
+	22   :   57;
+	23   :   70;
+	24   :   15;
+	25   :   -28;
+	26   :   49;
+	27   :   -68;
+	28   :   89;
+	29   :   127;
+	30   :   -104;
+	31   :   97;
+	32   :   62;
+	33   :   100;
+	34   :   43;
+	35   :   51;
+	36   :   105;
+	37   :   93;
+	38   :   698402402;
+	39   :   -127;
+	40   :   51;
+	41   :   61;
+	42   :   21;
+	43   :   98;
+	44   :   -109;
+	45   :   69;
+	46   :   32;
+	47   :   -128;
+	48   :   41;
+	49   :   73;
+	50   :   78;
+	51   :   -11;
+	52   :   -108;
+	53   :   -117;
+	54   :   -75;
+	55   :   -92;
+	56   :   -74;
+	57   :   -60;
+	58   :   -63;
+	59   :   37;
+	60   :   -69;
+	61   :   109;
+	62   :   118;
+	63   :   -20;
+	[64..127]  :   0;
+END;
